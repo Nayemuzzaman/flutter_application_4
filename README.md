@@ -1,8 +1,10 @@
 # flutter_application_4
 
-A new Flutter project.
+A new Flutter Text Input project.
 
 ## Getting Started
+<img width="270" height="480" alt="Screen Shot 2021-04-18 at 5 21 07 AM" src="https://user-images.githubusercontent.com/12158468/115129240-f162d980-a005-11eb-9d88-2b08cbb1c61f.png">
+
 
 This project is a starting point for a Flutter application.
 
